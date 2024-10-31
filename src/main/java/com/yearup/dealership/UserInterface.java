@@ -47,6 +47,7 @@ public class UserInterface {
                     9 - Remove a vehicle
                     99 - Quit
                     
+                    ------------------------------------------
                     Enter your option: \
                     """);
 
