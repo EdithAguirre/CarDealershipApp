@@ -1,4 +1,4 @@
-package com.yearup.dealership;
+package com.pluralsight;
 
 public class Program {
     public static void main(String[] args) {

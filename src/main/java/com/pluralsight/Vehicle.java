@@ -2,7 +2,7 @@
 Vehicle will hold information about a specific vehicle
  */
 
-package com.yearup.dealership;
+package com.pluralsight;
 
 public class Vehicle {
     // Data fields

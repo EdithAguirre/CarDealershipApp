@@ -4,7 +4,7 @@ DealershipFileManager will be responsible for reading the dealership file, parsi
  for saving a dealership and the vehicles back into the file in the same pipe-delimited format.
  */
 
-package com.yearup.dealership;
+package com.pluralsight;
 
 import java.io.*;
 

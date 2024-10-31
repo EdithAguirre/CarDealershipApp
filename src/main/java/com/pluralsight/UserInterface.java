@@ -5,7 +5,7 @@ and "dispatching" of the commands to the Dealership as needed. (ex: when the use
 display the vehicles it returns.)
  */
 
-package com.yearup.dealership;
+package com.pluralsight;
 
 import java.util.List;
 import java.util.Scanner;
